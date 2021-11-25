@@ -32,3 +32,5 @@ https://medium.com/techcrush/how-to-render-html-file-in-flask-3fbfb16b47f6
 https://towardsdatascience.com/camera-app-with-flask-and-opencv-bd147f6c0eec
 
 https://towardsdatascience.com/video-streaming-in-web-browsers-with-opencv-flask-93a38846fe00
+
+https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php
